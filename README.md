@@ -3,7 +3,8 @@ Siddarth Makkuni
 
 Computer Science + Emergency Medicine
 -------------------------------------
-![one-piece-pixel](https://github.com/user-attachments/assets/976ad631-7102-46a6-8309-e228f88e1975) ![one-piece-pixel](https://github.com/user-attachments/assets/976ad631-7102-46a6-8309-e228f88e1975) ![one-piece-pixel](https://github.com/user-attachments/assets/976ad631-7102-46a6-8309-e228f88e1975) ![one-piece-pixel](https://github.com/user-attachments/assets/976ad631-7102-46a6-8309-e228f88e1975) 
+![f210f1baaa38742e0f8e44ab24cbfdcc](https://github.com/user-attachments/assets/f099c7f4-3fe0-4639-a967-65d4ee91afb7)
+
 
 -------------------------------------
 
