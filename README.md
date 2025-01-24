@@ -13,7 +13,7 @@ I am a 2nd year student at Rutgers University studying Computer Science on the p
 * 💻 Linkedin: https://www.linkedin.com/in/siddarth-makkuni-8304712b7/
 
 
-### Skills
+### 🔧 Skills
 
 
 <p align="left">
