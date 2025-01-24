@@ -9,10 +9,12 @@ I enjoy the adrenaline rush and feeling of saving lives and creating second chan
 algorithms for patient monitoring, and more!
  [200w](https://github.com/user-attachments/assets/45651317-8222-4902-b45d-f126f787d76b)
 
-📲 REACH OUT ![arrow-right](https://github.com/user-attachments/assets/9b12f07b-77c0-4d05-9c16-5a4a5f64ae86)
+ 
 
-EMAIL : [sidmakkuni47@gmail.com](mailto:sidmakkuni47@gmail.com)
+![arrow-right](https://github.com/user-attachments/assets/9b12f07b-77c0-4d05-9c16-5a4a5f64ae86)  EMAIL : [sidmakkuni47@gmail.com](mailto:sidmakkuni47@gmail.com)
 LINKEDIN: https://www.linkedin.com/in/siddarth-makkuni-8304712b7/
+
+
 
 ### Skills
 
