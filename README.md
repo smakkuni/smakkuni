@@ -1,13 +1,14 @@
+![62d433ee626ab093a14e6638eae655ec](https://github.com/user-attachments/assets/ec000346-18bb-49d3-ae54-dd8b4b684e2f)
+=================================
+
+
 Siddarth Makkuni
 =================================
 
 Computer Science + Emergency Medicine
 -------------------------------------
-![5a83397b9826b1ffd949faabc5d5c27d](https://github.com/user-attachments/assets/45e4517c-07e3-4658-80b8-c086b6ad90c3)
 
 
-
--------------------------------------
 
 I am a 2nd year student at Rutgers University studying Computer Science on the pre-med track. I have a strong passion for medicine, specifically emergency medicine! I enjoy the adrenaline rush and feeling of saving lives and creating second chances. The advancements of Artificial Intelligence has inspired me to begin delving into the world of app creation. I am currently working to integrate CS into the fast pace environment of Emergency Medicine internally, by developing AI-driven tools for diagnosis, algorithms for patient monitoring, and more!
 
