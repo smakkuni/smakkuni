@@ -6,7 +6,7 @@
 Siddarth Makkuni
 =================================
 
-### Computer Science + Emergency Medicine
+### Computer Science + Emergency Medicine 👨🏽‍💻👨🏾‍⚕️
 
 I am a 2nd year student at Rutgers University studying Computer Science on the pre-med track. I have a strong passion for medicine, specifically emergency medicine! I enjoy the adrenaline rush and feeling of saving lives and creating second chances. The advancements of Artificial Intelligence has inspired me to begin delving into the world ofapp creation. I am currently working to integrate CS into the fast pace environment of Emergency Medicine internally, by developing AI-driven tools for diagnosis, algorithms for patient monitoring, and more!
 
