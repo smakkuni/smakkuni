@@ -8,6 +8,7 @@ Computer Science + Emergency Medicine
 -------------------------------------
 
 **About me**
+
 I am a 2nd year student at Rutgers University studying Computer Science on the pre-med track. I have a strong passion for medicine, specifically emergency medicine! I enjoy the adrenaline rush and feeling of saving lives and creating second chances. The advancements of Artificial Intelligence has inspired me to begin delving into the world of app creation. I am currently working to integrate CS into the fast pace environment of Emergency Medicine internally, by developing AI-driven tools for diagnosis, algorithms for patient monitoring, and more!
 
 * ✉️  You can contact me at [sidmakkuni47@gmail.com](mailto:sidmakkuni47@gmail.com)
